@@ -1,0 +1,13 @@
+- name: Zipperposition
+  description: 'In the last two years I have been the main developer of the
+                Zipperposition theorem prover. It is a well-performing
+                polymorphic higher-order theorem prover. Unlike other provers
+                like E or Vampire, Zipperposition does not have an <span class="em"> auto </span>
+                mode. Therefore, if you would like to use it in your projects let me know
+                and I will provide you with a reasonable configuration to use in your domain.'
+  url:         'https://github.com/sneeuwballen/zipperposition'
+
+- name: E
+  description: 'I am also the main developer behind Ehoh, an extension of E to a fragment of higher-order logic.
+                An extension to full higher-order logic is planned.'
+  url:         'https://github.com/eprover/'

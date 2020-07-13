@@ -1,0 +1,49 @@
+- title:   'Boolean reasoning in a higher-order superposition prover'
+  authors: "<span class='me'> Petar Vukmirović </span> and Visa Nummelin"
+  conference: 'Accepted at 7th Workshop on Practical Aspects of Automated Reasoning (PAAR-2020)'
+  year: 2020
+  links:
+    - description: Submission (PDF)
+      url: 'http://matryoshka.gforge.inria.fr/pubs/ho_bools_paper.pdf'
+- title: 'Efficient full higher-order unification'
+  authors: "<span class='me'> Petar Vukmirović</span>, Alexander Bentkamp, and Visa Nummelin"
+  conference: "In Ariola, Z.M. (ed.), 5th International Conference on Formal Structures for Computation and Deduction (FSCD 2020), LIPIcs 167, pp. 5:1–5:17, Schloss Dagstuhl—Leibniz-Zentrum für Informatik"
+  year: 2020
+  links:
+    - description: Publisher's page
+      url: 'https://doi.org/10.4230/LIPIcs.FSCD.2020.5'
+    - description: Postprint (PDF)
+      url: 'http://matryoshka.gforge.inria.fr/pubs/hounif_paper.pdf'
+    - description: Technical report (PDF)
+      url: 'http://matryoshka.gforge.inria.fr/pubs/hounif_report.pdf'
+- title: 'Faster, higher, stronger: E 2.3'
+  authors: "Stephan Schulz, Simon Cruanes, and <span class='me'> Petar Vukmirović </span>"
+  conference: 'In Fontaine, P. (ed.) 27th International Conference on Automated Deduction (CADE-27), LNCS 11716, pp. 495–507, Springer'
+  year: 2019
+  links:
+    - description: Publisher's page
+      url: 'https://link.springer.com/chapter/10.1007/978-3-030-29436-6_29'
+    - description: Postprint (PDF)
+      url: 'http://matryoshka.gforge.inria.fr/pubs/e_2.3.pdf'
+- title: 'Superposition with lambdas'
+  authors: "Alexander Bentkamp, Jasmin Blanchette, Sophie Tourret, <span class='me'> Petar Vukmirović</span>, and Uwe Waldmann"
+  conference: 'In Fontaine, P. (ed.) 27th International Conference on Automated Deduction (CADE-27), LNCS 11716, pp. 55–73, Springer'
+  year: 2019
+  links:
+    - description: Publisher's page
+      url: 'https://link.springer.com/chapter/10.1007/978-3-030-29436-6_4'
+    - description: Postprint (PDF)
+      url: 'http://matryoshka.gforge.inria.fr/pubs/lamsup_paper.pdf'
+    - description: Report (PDF)
+      url: 'http://matryoshka.gforge.inria.fr/pubs/lamsup_report.pdf'
+- title: 'Extending a brainiac prover to lambda-free higher-order logic'
+  authors: "<span class='me'> Petar Vukmirović</span>, Jasmin Blanchette, Simon Cruanes, and Stephan Schulz"
+  conference: ' In Vojnar, T., Zhang, L. (eds.) 25th International Conference on Tools and Algorithms for the Construction and Analysis of Systems (TACAS 2019), LNCS 11427, pp. 192–210, Springer'
+  year: 2019
+  links:
+    - description: Publisher's page
+      url: 'https://link.springer.com/chapter/10.1007/978-3-030-17462-0_11'
+    - description: Postprint (PDF)
+      url: 'http://matryoshka.gforge.inria.fr/pubs/ehoh_paper.pdf'
+    - description: Report (PDF)
+      url: 'http://matryoshka.gforge.inria.fr/pubs/ehoh_report.pdf'
