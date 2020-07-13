@@ -23,7 +23,11 @@
             many advanced ideas implemented in <a
             href="https://www.ps.uni-saarland.de/~cebrown/satallax/">Satallax</a>,
             and by Hilbert choice treatment of <a
-            href="http://page.mi.fu-berlin.de/lex/leo3/">Leo-III</a>. <br/> If
+            href="http://page.mi.fu-berlin.de/lex/leo3/">Leo-III</a>. 
+            Many of the advanced heuristic schemes from E have been reimplemented 
+            (and lifted to higher-order logic) in Zipperposition. Many thanks
+            to <a href="http://wwwlehre.dhbw-stuttgart.de/~sschulz/DHBW_Stephan_Schulz/Stephan_Schulz.html">Stephan Schulz</a>.
+            <br/> If
             you are interested in using Zipperposition in your own project, send
             me an <a href="mailto:p.vukmirovic@vu.nl">email</a> and I will
             gladly help you.'
