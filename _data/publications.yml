@@ -5,6 +5,8 @@
   links:
     - description: Submission (PDF)
       url: 'http://matryoshka.gforge.inria.fr/pubs/ho_bools_paper.pdf'
+    - description: Presentation (YouTube)
+      url: 'https://youtu.be/NKpHFqhLRiQ?list=PLl1dj5prwUJzoLccR-PWf1ujHk4w2wRPU&t=1131'
 - title: 'Efficient full higher-order unification'
   authors: "<span class='me'> Petar Vukmirović</span>, Alexander Bentkamp, and Visa Nummelin"
   conference: "In Ariola, Z.M. (ed.), 5th International Conference on Formal Structures for Computation and Deduction (FSCD 2020), LIPIcs 167, pp. 5:1–5:17, Schloss Dagstuhl—Leibniz-Zentrum für Informatik"
@@ -16,6 +18,8 @@
       url: 'http://matryoshka.gforge.inria.fr/pubs/hounif_paper.pdf'
     - description: Technical report (PDF)
       url: 'http://matryoshka.gforge.inria.fr/pubs/hounif_report.pdf'
+    - description: Presentation (YouTube)
+      url: 'https://youtu.be/8cCjk205oig'
 - title: 'Faster, higher, stronger: E 2.3'
   authors: "Stephan Schulz, Simon Cruanes, and <span class='me'> Petar Vukmirović </span>"
   conference: 'In Fontaine, P. (ed.) 27th International Conference on Automated Deduction (CADE-27), LNCS 11716, pp. 495–507, Springer'
