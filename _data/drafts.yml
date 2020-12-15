@@ -1,0 +1,6 @@
+- title:   'Making higher-order superposition work in practice'
+  authors: "Petar Vukmirovic, Alexander Bentkamp, Jasmin Blanchette, Simon Cruanes, Visa Nummelin, and Sophie Tourret"
+  year: 2020
+  links:
+    - description: Submission (PDF)
+      url: 'papers/ho-techniques.pdf'

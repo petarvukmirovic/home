@@ -70,6 +70,33 @@
         <!-- end News -->
       {% endif %}
 
+      {% assign pub_count = site.data.drafts | size %}
+      {% if pub_count != 0 %} 
+        <!-- begin Drafts -->
+        <section class="content-section">
+
+          <header class="section-header" id="drafts">
+            <h2>Drafts</h2>
+          </header>
+
+            {% for pub in site.data.drafts %}
+            <div class="resume-item pubs" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+              <h3 class="resume-item-title" itemprop="name">{{ pub.title }}</h3>
+              <p class="authors">{{ pub.authors }}</p>
+              <p class="links"> 
+                {% for link in pub.links %}
+                  {% unless forloop.first %}
+                   ⋅ 
+                  {% endunless %}
+                  <a class="link" href={{link.url}}> {{link.description}} </a>
+                {% endfor %}
+              </p>
+            </div>
+            {% endfor %}
+        </section>
+        <!-- end Drafts -->
+      {% endif %}
+      
       {% assign pub_count = site.data.publications | size %}
       {% if pub_count != 0 %} 
         <!-- begin Publication -->

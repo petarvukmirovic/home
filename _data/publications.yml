@@ -1,10 +1,17 @@
+- title:   'Extending a brainiac prover to lambda-free higher-order logic'
+  authors: "Petar Vukmirović, Jasmin Blanchette, Simon Cruanes, and Stephan Schulz"
+  conference: 'Accepted in International Journal on Software Tools for Technology Transfer'
+  year: 20xy
+  links:
+    - description: Draft article
+      url: 'https://matryoshka-project.github.io/pubs/ehoh_article.pdf'
 - title:   'Boolean reasoning in a higher-order superposition prover'
   authors: "<span class='me'> Petar Vukmirović </span> and Visa Nummelin"
-  conference: 'Accepted at 7th Workshop on Practical Aspects of Automated Reasoning (PAAR-2020)'
+  conference: 'Practical Aspects of Automated Reasoning (PAAR-2020)'
   year: 2020
   links:
-    - description: Submission (PDF)
-      url: 'http://matryoshka.gforge.inria.fr/pubs/ho_bools_paper.pdf'
+    - description: Publisher's page (PDF)
+      url: 'http://ceur-ws.org/Vol-2752/paper11.pdf'
     - description: Presentation (YouTube)
       url: 'https://youtu.be/NKpHFqhLRiQ?list=PLl1dj5prwUJzoLccR-PWf1ujHk4w2wRPU&t=1131'
 - title: 'Efficient full higher-order unification'
