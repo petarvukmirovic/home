@@ -53,6 +53,7 @@ resume_social_links:
   resume_github_url:            "https://github.com/petarvukmirovic"
   resume_google_scholar_url:    "https://scholar.google.com/citations?user=5BK3-yYAAAAJ&hl"
   resume_email:                 "mailto:p.vukmirovic@vu.nl"
+  resume_cv:                    "other/cv.pdf"
 resume_print_social_links:      true
 
 # Design settings
