@@ -4,3 +4,11 @@
   links:
     - description: Submission (PDF)
       url: 'papers/ho-techniques.pdf'
+- title:   'SAT-inspired eliminations for superposition '
+  authors: "Petar Vukmirović, Jasmin Blanchette, and Marijn J.H. Heule. "
+  year: 2020
+  links:
+    - description: Submission-paper (PDF)
+      url: 'https://matryoshka-project.github.io/pubs/satelimsup_paper.pdf'
+    - description: Submission-report (PDF)
+      url: 'https://matryoshka-project.github.io/pubs/satelimsup_report.pdf'
