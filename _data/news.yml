@@ -1,41 +1,41 @@
-- heading: 'Zipperposition 2 won CASC-J10 THF divison'
-  content: 'I am very proud to announce that at the latest installment of annual 
-            <a href="https://www.tptp.org/CASC/J10/"> CASC</a> automatic
-            theorem prover competition, <a
-            href="https://github.com/sneeuwballen/zipperposition">
-            Zipperposition 2</a> won the first place in THF (higher-order
-            theorem) division. I was the lead developer of Zipperposition in the
-            last two years, and prepared Zipperposition 2 CASC submission, but
-            Zipperposition owes it performance to outstanding work of many other
-            people. Some of those include: <a
-            href="https://www.cs.vu.nl/~abp290/">Alexander Bentkamp</a> who is
-            the main author of <a href="#publications"> superposition with lambdas</a> calculus; <a
-            href="https://www.mpi-inf.mpg.de/departments/automation-of-logic/people/sophie-tourret/">
-            Sophie Tourret</a> who implemented infinite stream management; Visa
-            Nummelin who helped improve Boolean reasoning support; <a
-            href="https://www.cs.vu.nl/~jbe248/">Jasmin Blanchette</a> who
-            supervised work of Alexander, Visa and me; <a
-            href="https://simon.cedeela.fr/">Simon Cruanes</a>  who is the
-            creator of Zipperposition and who guided us through its ins and
-            outs. We have also implemented <a
-            href="https://link.springer.com/chapter/10.1007%2F978-3-030-51074-9_16">combinator-based
-            calculus by Bhayat and Reger</a>; we have further been inspired by
-            many advanced ideas implemented in <a
-            href="https://www.ps.uni-saarland.de/~cebrown/satallax/">Satallax</a>,
-            and by Hilbert choice treatment of <a
-            href="http://page.mi.fu-berlin.de/lex/leo3/">Leo-III</a>. 
-            Many of the advanced heuristic schemes from E have been reimplemented 
-            (and lifted to higher-order logic) in Zipperposition. Many thanks
-            to <a href="http://wwwlehre.dhbw-stuttgart.de/~sschulz/DHBW_Stephan_Schulz/Stephan_Schulz.html">Stephan Schulz</a>.
-            <br/> If
-            you are interested in using Zipperposition in your own project, send
-            me an <a href="mailto:p.vukmirovic@vu.nl">email</a> and I will
-            gladly help you.'
-- heading: 'Best paper by junior researchers award at FSCD 2020'
-  content: 'Paper Efficient Full Higher-Order Unification that I coauthored with
-            Alexander Bentkamp and Visa Nummelin won the Best paper by junior
-            researchers award at <a href="https://fscd2020.org/"> FSCD 2020</a>. FSCD 2020 presentation is available
-            at the <a
-            href="https://youtu.be/8cCjk205oig">link</a>.
-            Thanks to everyone who contributed to this paper with their comments!'
-           
+#- heading: 'Zipperposition 2 won CASC-J10 THF divison'
+#  content: 'I am very proud to announce that at the latest installment of annual 
+#            <a href="https://www.tptp.org/CASC/J10/"> CASC</a> automatic
+#            theorem prover competition, <a
+#            href="https://github.com/sneeuwballen/zipperposition">
+#            Zipperposition 2</a> won the first place in THF (higher-order
+#            theorem) division. I was the lead developer of Zipperposition in the
+#            last two years, and prepared Zipperposition 2 CASC submission, but
+#            Zipperposition owes it performance to outstanding work of many other
+#            people. Some of those include: <a
+#            href="https://www.cs.vu.nl/~abp290/">Alexander Bentkamp</a> who is
+#            the main author of <a href="#publications"> superposition with lambdas</a> calculus; <a
+#            href="https://www.mpi-inf.mpg.de/departments/automation-of-logic/people/sophie-tourret/">
+#            Sophie Tourret</a> who implemented infinite stream management; Visa
+#            Nummelin who helped improve Boolean reasoning support; <a
+#            href="https://www.cs.vu.nl/~jbe248/">Jasmin Blanchette</a> who
+#            supervised work of Alexander, Visa and me; <a
+#            href="https://simon.cedeela.fr/">Simon Cruanes</a>  who is the
+#            creator of Zipperposition and who guided us through its ins and
+#            outs. We have also implemented <a
+#            href="https://link.springer.com/chapter/10.1007%2F978-3-030-51074-9_16">combinator-based
+#            calculus by Bhayat and Reger</a>; we have further been inspired by
+#            many advanced ideas implemented in <a
+#            href="https://www.ps.uni-saarland.de/~cebrown/satallax/">Satallax</a>,
+#            and by Hilbert choice treatment of <a
+#            href="http://page.mi.fu-berlin.de/lex/leo3/">Leo-III</a>. 
+#            Many of the advanced heuristic schemes from E have been reimplemented 
+#            (and lifted to higher-order logic) in Zipperposition. Many thanks
+#            to <a href="http://wwwlehre.dhbw-stuttgart.de/~sschulz/DHBW_Stephan_Schulz/Stephan_Schulz.html">Stephan Schulz</a>.
+#            <br/> If
+#            you are interested in using Zipperposition in your own project, send
+#            me an <a href="mailto:p.vukmirovic@vu.nl">email</a> and I will
+#            gladly help you.'
+#- heading: 'Best paper by junior researchers award at FSCD 2020'
+#  content: 'Paper Efficient Full Higher-Order Unification that I coauthored with
+#            Alexander Bentkamp and Visa Nummelin won the Best paper by junior
+#            researchers award at <a href="https://fscd2020.org/"> FSCD 2020</a>. FSCD 2020 presentation is available
+#            at the <a
+#            href="https://youtu.be/8cCjk205oig">link</a>.
+#            Thanks to everyone who contributed to this paper with their comments!'
+#           
