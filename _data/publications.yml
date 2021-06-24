@@ -5,6 +5,31 @@
   links:
     - description: Submission (PDF)
       url: 'papers/ho-techniques.pdf'
+- title:   'Superposition for full higher-order logic'
+  authors: "Alexander Bentkamp, Jasmin Blanchette, Sophie Tourret, and Petar Vukmirović"
+  year: 2021
+  conference: 'Accepted at CADE-28'
+  links:
+    - description: Submission (PDF)
+      url: 'https://matryoshka-project.github.io/pubs/hosup_paper.pdf'
+    - description: Report (PDF)
+      url: 'https://matryoshka-project.github.io/pubs/hosup_report.pdf'
+- title:   'Superposition with first-class Booleans and inprocessing clausification'
+  authors: "Visa Nummelin, Alexander Bentkamp, Sophie Tourret, and Petar Vukmirović"
+  year: 2021
+  conference: 'Accepted at CADE-28'
+  links:
+    - description: Submission (PDF)
+      url: 'https://matryoshka-project.github.io/pubs/boolsup_paper.pdf'
+    - description: Report (PDF)
+      url: 'https://matryoshka-project.github.io/pubs/boolsup_report.pdf'
+- title:   'Making higher-order superposition work'
+  authors: "Petar Vukmirovic, Alexander Bentkamp, Jasmin Blanchette, Simon Cruanes, Visa Nummelin, and Sophie Tourret"
+  year: 2021
+  conference: 'Accepted at CADE-28'
+  links:
+    - description: Submission (PDF)
+      url: 'papers/ho-techniques.pdf'
 - title:   'Extending a brainiac prover to lambda-free higher-order logic'
   authors: "Petar Vukmirović, Jasmin Blanchette, Simon Cruanes, and Stephan Schulz"
   conference: 'Accepted in International Journal on Software Tools for Technology Transfer'

@@ -1,8 +1,14 @@
 - title:   'SAT-inspired eliminations for superposition '
   authors: "Petar Vukmirović, Jasmin Blanchette, and Marijn J.H. Heule. "
-  year: 2020
+  year: 2021
   links:
     - description: Submission-paper (PDF)
       url: 'https://matryoshka-project.github.io/pubs/satelimsup_paper.pdf'
     - description: Submission-report (PDF)
       url: 'https://matryoshka-project.github.io/pubs/satelimsup_report.pdf'
+- title:   'Efficient full higher-order unification'
+  authors: "Petar Vukmirović, Alexander Bentkamp, and Visa Nummelin."
+  year: 2021
+  links:
+    - description: Draft article (PDF)
+      url: 'https://matryoshka-project.github.io/pubs/hounif_article.pdf'
