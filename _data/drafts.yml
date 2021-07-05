@@ -12,3 +12,9 @@
   links:
     - description: Draft article (PDF)
       url: 'https://matryoshka-project.github.io/pubs/hounif_article.pdf'
+- title:   'Making higher-order superposition work &mdash; extended journal submission'
+  authors: "Petar Vukmirovic, Alexander Bentkamp, Jasmin Blanchette, Simon Cruanes, Visa Nummelin, and Sophie Tourret"
+  year: 2021
+  links:
+    - description: Submission (PDF)
+      url: 'papers/ho-techniques-jar.pdf'
